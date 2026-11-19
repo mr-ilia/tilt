@@ -1,0 +1,14 @@
+{
+    "name": "y7-tilt",
+    "description": "Has the school bag tipped?",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "preferredEditor": "pyprj"
+}
